@@ -1,7 +1,7 @@
 # Grafana實作練習
 
 
-## Grafana 環境安裝
+### Grafana 環境安裝
 
 *Ubuntu 20.04*
 
