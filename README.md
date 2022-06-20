@@ -101,18 +101,16 @@
 
 13.  `sudo nano /etc/kibana/kibana.yml (直接將下面程式碼貼在最上層)`
 
-'''
-server.host: "0.0.0.0"
-elasticsearch.username: "kibana_system"
-elasticsearch.password: "自己設定的密碼(步驟12)"
-server.ssl.enabled: true
-server.ssl.certificate: /etc/kibana/ca/ca.crt
-server.ssl.key: /etc/kibana/ca/ca.key
-elasticsearch.hosts: ["https://自己ip:9200"]
-elasticsearch.ssl.certificateAuthorities: [ "/etc/kibana/ca/http_ca.crt" ]
-elasticsearch.ssl.verificationMode: none
+    server.host: "0.0.0.0"
+    elasticsearch.username: "kibana_system"
+    elasticsearch.password: "自己設定的密碼(步驟12)"
+    server.ssl.enabled: true
+    server.ssl.certificate: /etc/kibana/ca/ca.crt
+    server.ssl.key: /etc/kibana/ca/ca.key
+    elasticsearch.hosts: ["https://自己ip:9200"]
+    elasticsearch.ssl.certificateAuthorities: [ "/etc/kibana/ca/http_ca.crt" ]
+    elasticsearch.ssl.verificationMode: none
 
-'''
 
 14.  `sudo systemctl start grafana-server`
 
