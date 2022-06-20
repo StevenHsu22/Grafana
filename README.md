@@ -3,7 +3,7 @@
 
 ### Grafana 環境安裝
 
-*Ubuntu 20.04*
+*linux 版本 Ubuntu 20.04*
 
 1.  sudo apt-get install -y adduser libfontconfig1
 
