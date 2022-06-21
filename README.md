@@ -1,6 +1,6 @@
-# Grafana實作練習
+# Grafana 實作練習 - Plugins 篇
 
-*2022/6/22*
+*21 June 2022. Update: 2022/06/22.*
 
 ## Grafana Plugins
 
