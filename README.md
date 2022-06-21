@@ -1,9 +1,16 @@
 # Grafana實作練習
 
-
-### Grafana 環境安裝
-
 *2022/6/20*
+
+* [Grafana 環境安裝](#grafanaenv)
+
+* [Elasticsearch 環境安裝](#elaenv)
+
+* [Logstash 環境安裝](#logstashenv)
+
+* [Kibana 環境安裝](#kibanaenv)
+
+<h2 id="grafanaenv">Grafana 環境安裝</h2>
 
 *配備 4 Cpus以上 Linux 版本 Ubuntu 20.04*
 
@@ -21,9 +28,7 @@
 
 ![img](img/GCP_firewall.png)
 
-### ELK 環境安裝
-
-#### Elasticsearch
+<h2 id="elaenv">Elasticsearch 環境安裝</h2>
 
 1.  `sudo apt update ; sudo apt-get update`
 
@@ -61,7 +66,7 @@
 
 18.  補充：`如是用雲端虛擬機，則需另在去防火牆規則中新增 9200/tcp port (eg. GCP 要去虛擬私有雲網路中的防火牆設定)`
 
-#### Logstash
+<h2 id="logstashenv">Logstash 環境安裝</h2>
 
 1.  `wget https://artifacts.elastic.co/downloads/logstash/logstash-8.2.3-amd64.deb`
 
@@ -73,7 +78,7 @@
 
 5.  `sudo systemctl stop logstash (先關掉之後再用)`
 
-#### Kibana
+<h2 id="kibanaenv">Kibana 環境安裝</h2>
 
 1.  `wget https://artifacts.elastic.co/downloads/kibana/kibana-8.2.3-amd64.deb`
 
