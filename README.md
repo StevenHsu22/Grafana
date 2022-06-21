@@ -12,7 +12,9 @@
 
 * [Kibana 環境安裝](#kibanaenv)
 
-* [Grafana Plugins 簡介](https://github.com/StevenHsu22/Grafana/tree/plugins): 分支中簡單介紹各 Plugins 功能
+## Grafana Plugins 各功能簡介
+
+* [Grafana Plugins 簡介](https://github.com/StevenHsu22/Grafana/tree/plugins) : 分支中簡單介紹各 Plugins 功能
 
 <h2 id="grafanaenv">Grafana 環境安裝</h2>
 
