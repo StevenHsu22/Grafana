@@ -1,6 +1,6 @@
 # Grafana實作練習
 
-*2022/6/20*
+*20 June 2022. Update: 2022/06/21.*
 
 ## Grafana、ELK 環境安裝
 
