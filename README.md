@@ -2,7 +2,7 @@
 
 *20 June 2022. Update: 2022/06/21.*
 
-### Grafana、ELK 環境安裝
+## Grafana、ELK 環境安裝
 
 * [Grafana 環境安裝](#grafanaenv)
 
@@ -12,7 +12,7 @@
 
 * [Kibana 環境安裝](#kibanaenv)
 
-### Grafana Plugins 各功能簡介
+## Grafana Plugins 各功能簡介
 
 * [Grafana Plugins 簡介](https://github.com/StevenHsu22/Grafana/tree/plugins) : 分支中簡單介紹各 Plugins 功能
 
