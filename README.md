@@ -123,7 +123,7 @@
     elasticsearch.ssl.verificationMode: none
 
 
-14.  `sudo systemctl start grafana-server`
+14.  `sudo systemctl start kibana`
 
 15.  `sudo systemctl restart kibana (有時無法開啟要重啟 kibana)`
 
