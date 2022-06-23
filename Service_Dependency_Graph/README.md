@@ -1,4 +1,4 @@
-# Grafana Plugins - AJAX
+# Grafana Plugins - Service Dependency Graph
 
 *20 June 2022. Update: 2022/06/23.*
 
@@ -10,16 +10,16 @@
 
 <h2 id="use">用途</h2>
 
-可將外部內容用 GET、POST 或 iframe 加載到儀表板(支援 TEXT、JSON、Bolb、Images)
+顯示服務之間基於度量的動態關係圖，如各服務和通信的響應時間、負載和錯誤率統計信息
+(Web calls, database calls, message queues, LDAP calls, etc)
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-搜尋 Grafana Plugins 中的 AJAX 並點擊 INSTALL 或打以下指令
+搜尋 Grafana Plugins 中的 Service Dependency Graph 並點擊 INSTALL 或打以下指令
 
-    grafana-cli plugins install ryantxu-ajax-panel
+    grafana-cli plugins install novatec-sdg-panel
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](servicedependencygraph.png)
 
-![img](AJAX2.png)
