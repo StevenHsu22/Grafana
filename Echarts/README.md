@@ -1,4 +1,4 @@
-# Grafana Plugins - AJAX
+# Grafana Plugins - Echarts
 
 *20 June 2022. Update: 2022/06/23.*
 
@@ -10,16 +10,15 @@
 
 <h2 id="use">用途</h2>
 
-可將外部內容用 GET、POST 或 iframe 加載到儀表板(支援 TEXT、JSON、Bolb、Images)
+可使用 react 進行編碼，客製化程度高
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-搜尋 Grafana Plugins 中的 AJAX 並點擊 INSTALL 或打以下指令
+搜尋 Grafana Plugins 中的 Echarts 並點擊 INSTALL 或打以下指令
 
-    grafana-cli plugins install ryantxu-ajax-panel
+    grafana-cli plugins install bilibala-echarts-panel
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](echart.png)
 
-![img](AJAX2.png)
