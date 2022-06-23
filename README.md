@@ -2,6 +2,8 @@
 
 *21 June 2022. Update: 2022/06/22.*
 
+*Grafana version:9.0.0*
+
 ## Grafana Plugins
 
 * [AJAX](https://github.com/StevenHsu22/Grafana/tree/plugins/AJAX)
