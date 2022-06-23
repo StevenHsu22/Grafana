@@ -1,4 +1,4 @@
-# Grafana Plugins - AJAX
+# Grafana Plugins - Dashboard list
 
 *20 June 2022. Update: 2022/06/23.*
 
@@ -10,16 +10,14 @@
 
 <h2 id="use">用途</h2>
 
-可將外部內容用 GET、POST 或 iframe 加載到儀表板(支援 TEXT、JSON、Bolb、Images)
+顯示到其他儀表板的動態鏈接，且可以配置為使用加星標的儀表板或查詢儀表板標籤
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-搜尋 Grafana Plugins 中的 AJAX 並點擊 INSTALL 或打以下指令
-
-    grafana-cli plugins install ryantxu-ajax-panel
+(已包含在grafana裡，不需安裝)
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](dashboardlist.png)
 
-![img](AJAX2.png)
+![img](dashboardlist1.png)
