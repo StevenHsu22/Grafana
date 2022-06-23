@@ -2,6 +2,8 @@
 
 *20 June 2022. Update: 2022/06/21.*
 
+*ElasticSearch version: 8.2.3*
+
 ## Grafana、ELK 環境安裝
 
 * [Grafana 環境安裝](#grafanaenv)
