@@ -20,5 +20,5 @@
 
 <h2 id="example">範例</h2>
 
-![img](htmlgraphic.png)
+![img](htmlgraphics.png)
 
