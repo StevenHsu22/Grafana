@@ -1,4 +1,4 @@
-# Grafana Plugins - AJAX
+# Grafana Plugins - Polystat
 
 *20 June 2022. Update: 2022/06/23.*
 
@@ -10,16 +10,15 @@
 
 <h2 id="use">用途</h2>
 
-可將外部內容用 GET、POST 或 iframe 加載到儀表板(支援 TEXT、JSON、Bolb、Images)
+為每個指標創建一個六邊形圖標，能夠將指標分組為複合指標，並為各指標設上閥值
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-搜尋 Grafana Plugins 中的 AJAX 並點擊 INSTALL 或打以下指令
+搜尋 Grafana Plugins 中的 Polystat 並點擊 INSTALL 或打以下指令
 
-    grafana-cli plugins install ryantxu-ajax-panel
+    grafana-cli plugins install grafana-polystat-panel
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](Polystat.png)
 
-![img](AJAX2.png)
