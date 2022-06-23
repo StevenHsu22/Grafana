@@ -17,6 +17,8 @@
 
 (已包含在grafana裡，不需安裝)
 
+*並未支援 ElasticSearch，只適用 InfluxDB 數據源*
+
 <h2 id="example">範例</h2>
 
 ![img](annotation_panel.png)
