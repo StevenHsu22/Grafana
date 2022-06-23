@@ -4,13 +4,8 @@
 
 ## Grafana Plugins
 
-* [Grafana 環境安裝](#grafanaenv)
+* [AJAX](https://github.com/StevenHsu22/Grafana/tree/plugins/AJAX)
 
-<h2 id="grafanaenv">Grafana 環境安裝</h2>
-
-*配備 4 Cpus以上 Linux 版本 Ubuntu 20.04*
-
-1.  `sudo apt-get install -y adduser libfontconfig1`
 
 
 
