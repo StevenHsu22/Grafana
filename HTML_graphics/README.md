@@ -23,5 +23,6 @@ https://gapit-htmlgraphics-panel.gapit.io/ 此網站有更詳細的教學
 <h2 id="example">範例</h2>
 
 依儀表板長寬動態變更長寬數字的例子
+
 ![img](htmlgraphics.png)
 
