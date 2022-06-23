@@ -22,4 +22,3 @@
 
 ![img](Base64.png)
 
-![img](Base64 (2).png)
