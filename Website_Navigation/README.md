@@ -1,4 +1,4 @@
-# Grafana Plugins - AJAX
+# Grafana Plugins - Website Navigation
 
 *20 June 2022. Update: 2022/06/23.*
 
@@ -10,16 +10,15 @@
 
 <h2 id="use">用途</h2>
 
-可將外部內容用 GET、POST 或 iframe 加載到儀表板(支援 TEXT、JSON、Bolb、Images)
+可將網站連結設置到儀表板
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-搜尋 Grafana Plugins 中的 AJAX 並點擊 INSTALL 或打以下指令
+搜尋 Grafana Plugins 中的 Website Navigation 並點擊 INSTALL 或打以下指令
 
-    grafana-cli plugins install ryantxu-ajax-panel
+    grafana-cli plugins install lework-lenav-panel
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](webnavigation.png)
 
-![img](AJAX2.png)
