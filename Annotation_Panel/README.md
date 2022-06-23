@@ -19,5 +19,5 @@
 
 <h2 id="example">範例</h2>
 
-![img](annotationpanel.png)
+![img](annotation panel.png)
 
