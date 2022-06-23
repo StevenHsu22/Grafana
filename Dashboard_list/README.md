@@ -18,6 +18,4 @@
 
 <h2 id="example">範例</h2>
 
-![img](dashboardlist.png)
-
 ![img](dashboardlist1.png)
