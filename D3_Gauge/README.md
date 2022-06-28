@@ -1,6 +1,8 @@
 # Grafana Plugins - D3 Gauge
 
-*20 June 2022. Update: 2022/06/23.*
+![img](d3_gauge_icon.png)
+
+*20 June 2022. Update: 2022/06/28.*
 
 * [用途](#use)
 
