@@ -1,6 +1,8 @@
 # Grafana Plugins - Dashboard list
 
-*20 June 2022. Update: 2022/06/23.*
+![img](dashboard_list_icon.png)
+
+*20 June 2022. Update: 2022/06/28.*
 
 * [用途](#use)
 
