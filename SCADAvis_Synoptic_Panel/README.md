@@ -1,6 +1,8 @@
 # Grafana Plugins - SCADAvis Synoptic Panel
 
-*20 June 2022. Update: 2022/06/23.*
+![img](SCADAvis_icon.png)
+
+*20 June 2022. Update: 2022/06/28.*
 
 * [用途](#use)
 
