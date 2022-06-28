@@ -1,4 +1,6 @@
-# Grafana Plugins - AJAX
+# Grafana Plugins - AJAX 
+
+![img](ajax_icon.png)
 
 *20 June 2022. Update: 2022/06/23.*
 
