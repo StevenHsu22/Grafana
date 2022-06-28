@@ -1,6 +1,8 @@
 # Grafana Plugins - Base64 Image/Video/Audio/PDF
 
-*20 June 2022. Update: 2022/06/23.*
+![img](base64_icon.png)
+
+*20 June 2022. Update: 2022/06/28.*
 
 * [用途](#use)
 
