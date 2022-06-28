@@ -1,5 +1,7 @@
 # Grafana Plugins - Singlestat (12.4)
 
+![img](single_stat_icon.png)
+
 *20 June 2022. Update: 2022/06/23.*
 
 * [用途](#use)
