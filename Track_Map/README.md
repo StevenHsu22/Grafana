@@ -1,6 +1,8 @@
 # Grafana Plugins - Track Map
 
-*20 June 2022. Update: 2022/06/23.*
+![img](track_map_icon.png)
+
+*20 June 2022. Update: 2022/06/28.*
 
 * [用途](#use)
 
