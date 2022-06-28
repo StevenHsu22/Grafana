@@ -122,7 +122,7 @@
     server.ssl.enabled: true
     server.ssl.certificate: /etc/kibana/ca/ca.crt
     server.ssl.key: /etc/kibana/ca/ca.key
-    elasticsearch.hosts: ["https://自己ip:9200"]
+    elasticsearch.hosts: ["https://自己ip:9200"]  (如果 gcp ip 有變動則要再去更改此 ip)
     elasticsearch.ssl.certificateAuthorities: [ "/etc/kibana/ca/http_ca.crt" ]
     elasticsearch.ssl.verificationMode: none
 
