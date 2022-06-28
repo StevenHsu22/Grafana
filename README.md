@@ -6,7 +6,11 @@
 
 ## Grafana Plugins
 
-* [AJAX](https://github.com/StevenHsu22/Grafana/tree/plugins/AJAX) ![img](AJAX/ajax_icon.png)
+![img](AJAX/ajax_icon.png)
+
+* [AJAX](https://github.com/StevenHsu22/Grafana/tree/plugins/AJAX)
+
+![img](Annotation_Panel/annotation_list_icon.png)
 
 * [Annotation Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Annotation_Panel)
 
