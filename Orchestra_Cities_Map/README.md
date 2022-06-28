@@ -1,6 +1,8 @@
 # Grafana Plugins - Orchestra Cities Map
 
-*20 June 2022. Update: 2022/06/23.*
+![img](orchestra_icon.png)
+
+*20 June 2022. Update: 2022/06/28.*
 
 * [用途](#use)
 
