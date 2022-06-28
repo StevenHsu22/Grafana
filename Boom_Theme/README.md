@@ -1,5 +1,7 @@
 # Grafana Plugins - Boom Theme
 
+![img](boom_theme_icon.png)
+
 *20 June 2022. Update: 2022/06/23.*
 
 * [用途](#use)
