@@ -1,4 +1,4 @@
-# Grafana Plugins - Bar_gauge
+# Grafana Plugins - Bar gauge
 
 ![img](Bar_gauge_icon.png)
 
