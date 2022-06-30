@@ -12,7 +12,7 @@
 
 <h2 id="use">用途</h2>
 
-有xy軸的圖表
+有 xy 軸的圖表
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
