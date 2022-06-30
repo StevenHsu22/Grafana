@@ -6,6 +6,12 @@
 
 ## Grafana Plugins
 
+| Icon | Name | Icon | Name | Icon | Name |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| ![img](AJAX/ajax_icon.png)| [AJAX](https://github.com/StevenHsu22/Grafana/tree/plugins/AJAX)| ![img](Annotation_Panel/annotation_list_icon.png)|[Annotation Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Annotation_Panel)| ![img](Base64/base64_icon.png)|[Base64](https://github.com/StevenHsu22/Grafana/tree/plugins/Base64)|
+| Icon | Name | Icon | Name | Icon | Name |
+| Icon | Name | Icon | Name | Icon | Name |
+
 ![img](AJAX/ajax_icon.png)
 
 * [AJAX](https://github.com/StevenHsu22/Grafana/tree/plugins/AJAX)
