@@ -1,4 +1,4 @@
-# Grafana Plugins - Bar_chart
+# Grafana Plugins - Bar chart
 
 ![img](bar_chart_icon.png)
 
