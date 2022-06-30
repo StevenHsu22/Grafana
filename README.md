@@ -19,4 +19,17 @@
 | ![img](Singlestat/single_stat_icon.png) | [Singlestat](https://github.com/StevenHsu22/Grafana/tree/plugins/Singlestat) | ![img](Status_Panel/status_panel_icon.png) | [Status Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Status_Panel) | ![img](Text/text_icon.png) | [Text](https://github.com/StevenHsu22/Grafana/tree/plugins/Text) |
 | ![img](Timepicker_Buttons_Panel/timepicker_buttons_panel_icon.png) | [Timepicker Buttons Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Timepicker_Buttons_Panel) | ![img](Track_Map/track_map_icon.png) | [Track Map](https://github.com/StevenHsu22/Grafana/tree/plugins/Track_Map) | ![img](TrafficLight/trafficlight_icon.png) | [TrafficLight](https://github.com/StevenHsu22/Grafana/tree/plugins/TrafficLight) |
 | ![img](Untimely/untimely_icon.png) | [Untimely](https://github.com/StevenHsu22/Grafana/tree/plugins/Untimely) | ![img](Website_Navigation/website_navigation_icon.png) | [Website Navigation](https://github.com/StevenHsu22/Grafana/tree/plugins/Website_Navigation) |  |  |
-|  |  |  |  |  |  |
+| ![img](Annotations_list/Annotations_list_icon.png) | [Annotations_list](https://github.com/StevenHsu22/Grafana/tree/plugins/Annotations_list) | ![img](Bar_chart/bar_chart_icon.png) | [Bar_chart](https://github.com/StevenHsu22/Grafana/tree/plugins/Bar_chart) | ![img](Bar_gauge/Bar_gauge_icon.png) | [Bar_gauge](https://github.com/StevenHsu22/Grafana/tree/plugins/Bar_gauge) |
+| ![img](Candlestick/Candlestick_icon.png) | [Candlestick](https://github.com/StevenHsu22/Grafana/tree/plugins/Candlestick) | ![img](Canvas/canvas_icon.png) | [Canvas](https://github.com/StevenHsu22/Grafana/tree/plugins/Canvas) | ![img](Debug/debug_icon.png) | [Debug](https://github.com/StevenHsu22/Grafana/tree/plugins/Debug) |
+| ![img](Gauge/Gauge_icon.png) | [Gauge](https://github.com/StevenHsu22/Grafana/tree/plugins/Gauge) | ![img](Geomap/geomap_icon.png) | [Geomap](https://github.com/StevenHsu22/Grafana/tree/plugins/Geomap) | ![img](Heatmap_new/heatmap_new_icon.png) | [Heatmap_new](https://github.com/StevenHsu22/Grafana/tree/plugins/Heatmap_new) |
+| ![img](Histogram_ Labs/Histogram_labs_icon.png) | [Histogram_Labs](https://github.com/StevenHsu22/Grafana/tree/plugins/Histogram_ Labs) | ![img](Network_Weathermap/Network_Weathermap_icon.png) | [Network_Weathermap](https://github.com/StevenHsu22/Grafana/tree/plugins/Network_Weathermap) | ![img](Time_series/Time_series_icon.png) | [Time_series](https://github.com/StevenHsu22/Grafana/tree/plugins/Time_series) |
+| ![img](XY_Chart Labs/XY_Chart.png) | [XY_Chart](https://github.com/StevenHsu22/Grafana/tree/plugins/Histogram_ Labs) |  |  |  |  |
+|  |  |  |  |  |
+
+
+
+
+
+
+
+
