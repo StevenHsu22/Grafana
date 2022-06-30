@@ -1,4 +1,4 @@
-# Grafana Plugins - Heatmap_new
+# Grafana Plugins - Heatmap (new)
 
 ![img](heatmap_new_icon.png)
 
