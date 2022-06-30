@@ -22,8 +22,8 @@
 | ![img](Annotations_list/Annotations_list_icon.png) | [Annotations_list](https://github.com/StevenHsu22/Grafana/tree/plugins/Annotations_list) | ![img](Bar_chart/bar_chart_icon.png) | [Bar_chart](https://github.com/StevenHsu22/Grafana/tree/plugins/Bar_chart) | ![img](Bar_gauge/Bar_gauge_icon.png) | [Bar_gauge](https://github.com/StevenHsu22/Grafana/tree/plugins/Bar_gauge) |
 | ![img](Candlestick/Candlestick_icon.png) | [Candlestick](https://github.com/StevenHsu22/Grafana/tree/plugins/Candlestick) | ![img](Canvas/canvas_icon.png) | [Canvas](https://github.com/StevenHsu22/Grafana/tree/plugins/Canvas) | ![img](Debug/debug_icon.png) | [Debug](https://github.com/StevenHsu22/Grafana/tree/plugins/Debug) |
 | ![img](Gauge/Gauge_icon.png) | [Gauge](https://github.com/StevenHsu22/Grafana/tree/plugins/Gauge) | ![img](Geomap/geomap_icon.png) | [Geomap](https://github.com/StevenHsu22/Grafana/tree/plugins/Geomap) | ![img](Heatmap_new/heatmap_new_icon.png) | [Heatmap_new](https://github.com/StevenHsu22/Grafana/tree/plugins/Heatmap_new) |
-| ![img](Histogram_ Labs/Histogram_labs_icon.png) | [Histogram_Labs](https://github.com/StevenHsu22/Grafana/tree/plugins/Histogram_ Labs) | ![img](Network_Weathermap/Network_Weathermap_icon.png) | [Network_Weathermap](https://github.com/StevenHsu22/Grafana/tree/plugins/Network_Weathermap) | ![img](Time_series/Time_series_icon.png) | [Time_series](https://github.com/StevenHsu22/Grafana/tree/plugins/Time_series) |
-| ![img](XY_Chart Labs/XY_Chart.png) | [XY_Chart](https://github.com/StevenHsu22/Grafana/tree/plugins/Histogram_ Labs) |  |  |  |  |
+| ![img](Histogram_Labs/Histogram_labs_icon.png) | [Histogram_Labs](https://github.com/StevenHsu22/Grafana/tree/plugins/Histogram_Labs) | ![img](Network_Weathermap/Network_Weathermap_icon.png) | [Network_Weathermap](https://github.com/StevenHsu22/Grafana/tree/plugins/Network_Weathermap) | ![img](Time_series/Time_series_icon.png) | [Time_series](https://github.com/StevenHsu22/Grafana/tree/plugins/Time_series) |
+| ![img](XY_Chart/XY_Chart.png) | [XY_Chart](https://github.com/StevenHsu22/Grafana/tree/plugins/XY_Chart) |  |  |  |  |
 |  |  |  |  |  |
 
 
