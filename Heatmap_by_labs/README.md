@@ -12,13 +12,11 @@
 
 <h2 id="use">用途</h2>
 
-
+查看隨時間變化的格子圖(類似階梯)
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-
-
-
+(已包含在grafana裡，不需安裝)
 
 <h2 id="example">範例</h2>
 
