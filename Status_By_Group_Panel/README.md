@@ -12,13 +12,13 @@
 
 <h2 id="use">用途</h2>
 
-
+用作組件狀態的集中視圖，可同時監控多台機器
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
+搜尋 Grafana Plugins 中的 Status By Group Panel 並點擊 INSTALL 或打以下指令
 
-
-
+    grafana-cli plugins install blackmirror1-statusbygroup-panel
 
 <h2 id="example">範例</h2>
 
