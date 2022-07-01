@@ -19,6 +19,8 @@
 搜尋 Grafana Plugins 中的 Bubble Chart 並點擊 INSTALL 或打以下指令
 
     grafana-cli plugins install digrich-bubblechart-panel
+    
+*目前尚未支援 ES 與 influxDB*
 
 <h2 id="example">範例</h2>
 
