@@ -12,13 +12,13 @@
 
 <h2 id="use">用途</h2>
 
-
+可視化給一系列值的（互補）累積分佈
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
+搜尋 Grafana Plugins 中的 CDF 並點擊 INSTALL 或打以下指令
 
-
-
+    grafana-cli plugins install sebastiangunreben-cdf-panel
 
 <h2 id="example">範例</h2>
 
