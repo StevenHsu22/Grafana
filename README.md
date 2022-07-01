@@ -94,7 +94,7 @@
 
 2.  `sudo dpkg -i kibana-8.2.3-amd64.deb`
 
-3.  `sudo sh /usr/share/elasticsearch/bin/elasticsearch-certutil ca --pem` 之後按enter (sh 不行就換 bash)
+3.  `sudo sh /usr/share/elasticsearch/bin/elasticsearch-certutil ca --pem` 之後按enter ( sh 不行就換 bash )
 
 4.  `sudo -s (進入root模式，ctrl+d 可退出)`
 
