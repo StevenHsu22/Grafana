@@ -1,4 +1,4 @@
-# Grafana Plugins - Annotations_list
+# Grafana Plugins - Annotations list
 
 ![img](Annotations_list_icon.png)
 
