@@ -12,13 +12,13 @@
 
 <h2 id="use">用途</h2>
 
-
+利用 mermaid.js 庫來創建流程圖、序列圖和甘特圖
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
+搜尋 Grafana Plugins 中的 Diagram 並點擊 INSTALL 或打以下指令
 
-
-
+    grafana-cli plugins install jdbranham-diagram-panel
 
 <h2 id="example">範例</h2>
 
