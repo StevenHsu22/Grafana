@@ -1,6 +1,6 @@
 # Grafana Plugins - Separator 
 
-![img](ajax_icon.png)
+![img](Separator_icon.png)
 
 *20 June 2022. Update: 2022/07/01.*
 
