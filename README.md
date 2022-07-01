@@ -1,6 +1,6 @@
 # Grafana實作練習
 
-*20 June 2022. Update: 2022/06/28.*
+*20 June 2022. Update: 2022/07/01.*
 
 *ElasticSearch version: 8.2.3*
 
