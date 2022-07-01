@@ -12,13 +12,13 @@
 
 <h2 id="use">用途</h2>
 
-
+顯示當前一組值與之前一組值的差異
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
+搜尋 Grafana Plugins 中的 Comparison Panel 並點擊 INSTALL 或打以下指令
 
-
-
+    grafana-cli plugins install integrationmatters-comparison-panel
 
 <h2 id="example">範例</h2>
 
