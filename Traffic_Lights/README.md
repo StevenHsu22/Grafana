@@ -12,13 +12,13 @@
 
 <h2 id="use">用途</h2>
 
-
+監試多個數據並顯示為紅綠燈形狀
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
+搜尋 Grafana Plugins 中的 Traffic Lights 並點擊 INSTALL 或打以下指令
 
-
-
+    grafana-cli plugins install snuids-trafficlights-panel
 
 <h2 id="example">範例</h2>
 
