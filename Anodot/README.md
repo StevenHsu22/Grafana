@@ -20,6 +20,8 @@
 
     grafana-cli plugins install anodot-panel
 
+*目前尚未支援 ES 與 influxDB*
+
 <h2 id="example">範例</h2>
 
 ![img](AJAX.png)
