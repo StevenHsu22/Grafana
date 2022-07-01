@@ -12,13 +12,13 @@
 
 <h2 id="use">用途</h2>
 
-
+使用 Plotly 圖形庫，製作各種圖表
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
+搜尋 Grafana Plugins 中的 Plotly panel 並點擊 INSTALL 或打以下指令
 
-
-
+    grafana-cli plugins install ae3e-plotly-panel
 
 <h2 id="example">範例</h2>
 
