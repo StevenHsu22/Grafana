@@ -21,7 +21,7 @@
 搜尋 Grafana Plugins 中的 Button Panel 並點擊 INSTALL 或打以下指令
 
     grafana-cli --pluginUrl https://github.com/cloudspout/cloudspout-button-panel/releases/download/7.0.23/cloudspout-button-panel.zip \
-  plugins install cloudspout-button-panel
+    plugins install cloudspout-button-panel
 
 <h2 id="example">範例</h2>
 
