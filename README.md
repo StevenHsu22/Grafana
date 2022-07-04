@@ -9,6 +9,11 @@
 
 <h2 id="hotPlugins">實用 Grafana Plugins</h2>
 
+
+| Icon | Name | Icon | Name | Icon | Name |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+
+
 <h2 id="allPlugins">Grafana Plugins</h2>
 
 | Icon | Name | Icon | Name | Icon | Name |
