@@ -16,7 +16,7 @@
 
 <h2 id="install">安裝方式、有無支援 ElasticSearch</h2>
 
-搜尋 Grafana Plugins 中的 ACE.SVG 並點擊 INSTALL 或打以下指令
+搜尋 Grafana Plugins 中的 Breadcrumb 並點擊 INSTALL 或打以下指令
 
     grafana-cli plugins install digiapulssi-breadcrumb-panel
 
