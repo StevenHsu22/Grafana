@@ -4,7 +4,12 @@
 
 *Grafana version : 9.0.0*
 
-## Grafana Plugins
+* [實用 Grafana Plugins](#hotPlugins)
+* [Grafana Plugins](#allPlugins)
+
+<h2 id="hotPlugins">實用 Grafana Plugins</h2>
+
+<h2 id="allPlugins">Grafana Plugins</h2>
 
 | Icon | Name | Icon | Name | Icon | Name |
 | ---- | ---- | ---- | ---- | ---- | ---- |
