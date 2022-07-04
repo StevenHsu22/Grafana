@@ -1,6 +1,6 @@
 # Grafana Plugins - Graph
 
-![img](Graph_icon.png)
+![img](Graph_old_icon.png)
 
 *20 June 2022. Update: 2022/07/03.*
 
