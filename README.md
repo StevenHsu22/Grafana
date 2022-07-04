@@ -1,6 +1,6 @@
 # Grafana 實作練習 - Plugins 篇
 
-*21 June 2022. Update: 2022/07/03.*
+*21 June 2022. Update: 2022/07/04.*
 
 *Grafana version : 9.0.0*
 
@@ -33,7 +33,7 @@
 | ![img](Organisations/Organisations_icon.png) | [Organisations](https://github.com/StevenHsu22/Grafana/tree/plugins/Organisations) | ![img](Percent_plus/Percent_plus_icon.png) | [Percent_plus](https://github.com/StevenHsu22/Grafana/tree/plugins/Percent_plus) | ![img](Pie_Chart/Pie_Chart_icon.png) | [Pie_Chart](https://github.com/StevenHsu22/Grafana/tree/plugins/Pie_Chart) |
 | ![img](Plotly/Plotly_icon.png) | [Plotly](https://github.com/StevenHsu22/Grafana/tree/plugins/Plotly) | ![img](Progress_List/Progress_List_icon.png) | [Progress_List](https://github.com/StevenHsu22/Grafana/tree/plugins/Progress_List) | ![img](Radar_Graph/Radar_Graph_icon.png) | [Radar_Graph](https://github.com/StevenHsu22/Grafana/tree/plugins/Radar_Graph) |
 | ![img](Scatter/Scatter_icon.png) | [Scatter](https://github.com/StevenHsu22/Grafana/tree/plugins/Scatter) | ![img](Shift_Selector/Shift_Selector_icon.png) | [Shift_Selector](https://github.com/StevenHsu22/Grafana/tree/plugins/Shift_Selector) | ![img](Singlestat_Math/Singlestat_Math_icon.png) | [Singlestat_Math](https://github.com/StevenHsu22/Grafana/tree/plugins/Singlestat_Math) |
-| ![img](Stat/Stat_icon.png) | [Stat](https://github.com/StevenHsu22/Grafana/tree/plugins/Stat) | ![img](Statusmap/Statusmap_icon.png) | [Statusmap](https://github.com/StevenHsu22/Grafana/tree/plugins/Statusmap) | ![img](Topology_Panel/Topology_Panel_icon.png) | [Topology_Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Topology_Panel) |
+| ![img](Stat/stat_icon.png) | [Stat](https://github.com/StevenHsu22/Grafana/tree/plugins/Stat) | ![img](Statusmap/Statusmap_icon.png) | [Statusmap](https://github.com/StevenHsu22/Grafana/tree/plugins/Statusmap) | ![img](Topology_Panel/Topology_Panel_icon.png) | [Topology_Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Topology_Panel) |
 | ![img](TrackMap/TrackMap_icon.png) | [TrackMap](https://github.com/StevenHsu22/Grafana/tree/plugins/TrackMap) | ![img](Tree_View/Tree_View_icon.png) | [Tree_View](https://github.com/StevenHsu22/Grafana/tree/plugins/Tree_View) | ![img](Video/Video_icon.png) | [Video](https://github.com/StevenHsu22/Grafana/tree/plugins/Video) |
 | ![img](WindRose/WindRose_icon.png) | [WindRose](https://github.com/StevenHsu22/Grafana/tree/plugins/WindRose) | ![img](ePict_Panel/ePict_Panel_icon.png) | [ePict_Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/ePict_Panel) |  |  |
 
