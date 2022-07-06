@@ -20,5 +20,5 @@
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](alert_list_panel.png)
 
