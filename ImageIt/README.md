@@ -2,7 +2,7 @@
 
 ![img](ImageIt_icon.png)
 
-*20 June 2022. Update: 2022/07/03.*
+*20 June 2022. Update: 2022/07/06.*
 
 * [用途](#use)
 
@@ -24,5 +24,5 @@
 
 <h2 id="example">範例</h2>
 
-![img](AJAX.png)
+![img](ImageIt.png)
 
