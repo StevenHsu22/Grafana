@@ -2,7 +2,7 @@
 
 ![img](Annunciator_icon.png)
 
-*20 June 2022. Update: 2022/07/03.*
+*20 June 2022. Update: 2022/07/06.*
 
 * [用途](#use)
 
