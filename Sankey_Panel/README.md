@@ -10,6 +10,8 @@
 
 * [範例](#example)
 
+* [實作練習](#do_example)
+
 <h2 id="use">用途</h2>
 
 適合可視化水流數據，並且水流的寬度將與所選指標成比例
@@ -23,4 +25,6 @@
 <h2 id="example">範例</h2>
 
 ![img](Sankey_Panel.png)
+
+<h2 id="do_example">實作練習</h2>
 
