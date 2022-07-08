@@ -2,7 +2,7 @@
 
 ![img](colored_svg_panel_icon.png)
 
-*20 June 2022. Update: 2022/06/28.*
+*20 June 2022. Update: 2022/07/08.*
 
 * [用途](#use)
 
