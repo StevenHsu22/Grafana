@@ -10,6 +10,8 @@
 
 * [範例](#example)
 
+* [實作練習](#do_example)
+
 <h2 id="use">用途</h2>
 
 可自定義的閾值將數據顯示為彩色 svg
@@ -24,3 +26,6 @@
 
 ![img](colorSVG.png)
 
+<h2 id="do_example">實作練習</h2>
+
+因為要寫 js 較難產出圖表
