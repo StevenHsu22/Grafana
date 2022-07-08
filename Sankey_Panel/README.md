@@ -28,6 +28,4 @@
 
 <h2 id="do_example">實作練習</h2>
 
-![img](Sankey_sample2.png)
-
 ![img](Sankey_sample3.png)
