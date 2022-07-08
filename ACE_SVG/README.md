@@ -10,6 +10,8 @@
 
 * [範例](#example)
 
+* [實作練習](#do_example)
+
 <h2 id="use">用途</h2>
 
 在對應圖片上顯示可視化的數據
@@ -23,4 +25,8 @@
 <h2 id="example">範例</h2>
 
 ![img](ACESVG.gif)
+
+<h2 id="do_example">實作練習</h2>
+
+因為要寫 js 較難產出圖表
 
