@@ -10,6 +10,8 @@
 
 * [範例](#example)
 
+* [實作練習](#do_example)
+
 <h2 id="use">用途</h2>
 
 常用於描述證券、衍生品或貨幣的價格變動
@@ -21,3 +23,7 @@
 <h2 id="example">範例</h2>
 
 ![img](candlestick.png)
+
+<h2 id="do_example">實作練習</h2>
+
+![img](candle_sample1.png)
