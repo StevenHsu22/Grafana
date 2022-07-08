@@ -1,6 +1,6 @@
 # Grafana 實作練習 - Plugins 篇
 
-*21 June 2022. Update: 2022/07/04.*
+*21 June 2022. Update: 2022/07/0.*
 
 *Grafana version : 9.0.0*
 
