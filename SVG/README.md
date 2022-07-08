@@ -10,6 +10,8 @@
 
 * [範例](#example)
 
+* [實作練習](#do_example)
+
 <h2 id="use">用途</h2>
 
 使用 snap svg 庫，顯示對公制敏感的 SVG 圖像
@@ -24,3 +26,6 @@
 
 ![img](SVG.png)
 
+<h2 id="do_example">實作練習</h2>
+
+因為要寫 js 較難產出圖表
