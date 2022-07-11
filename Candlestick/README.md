@@ -26,4 +26,5 @@
 
 <h2 id="do_example">實作練習</h2>
 
+以 STOCK_DAY_2330_202206.csv 資料為例
 ![img](candle_sample1.png)
