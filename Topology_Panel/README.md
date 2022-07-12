@@ -2,6 +2,8 @@
 
 ![img](Topology_Panel_icon.png)
 
+**grafana 9.0.0 無法使用**
+
 *20 June 2022. Update: 2022/07/12.*
 
 * [用途](#use)
