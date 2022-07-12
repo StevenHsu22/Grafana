@@ -1,5 +1,7 @@
 # Grafana Plugins - FlowCharting
 
+製作者 [hsiaotingg](https://github.com/hsiaotingg/ELKG/blob/Grafana-plugins/flowcharting/teaching.md)
+
 ![img](FlowCharting_icon.png)
 
 *20 June 2022. Update: 2022/07/12.*
