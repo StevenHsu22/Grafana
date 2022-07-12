@@ -1,7 +1,5 @@
 # Grafana Plugins - FlowCharting
 
-製作者 [hsiaotingg](https://github.com/hsiaotingg/ELKG/blob/Grafana-plugins/flowcharting/teaching.md)
-
 ![img](FlowCharting_icon.png)
 
 *20 June 2022. Update: 2022/07/12.*
@@ -29,6 +27,8 @@
 ![img](FlowCharting.png)
 
 <h2 id="do_example">實作範例</h2>
+
+範例製作者 [hsiaotingg](https://github.com/hsiaotingg/ELKG/blob/Grafana-plugins/flowcharting/teaching.md)
 
 需先使用draw.io將需要的圖表畫出來，例如：系統監控圖、網路拓樸圖、技術架構圖等，都可以利用draw.io在線上快速製出圖表並匯出XML、PDF、PNG等類型。
 
