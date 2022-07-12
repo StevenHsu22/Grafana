@@ -2,7 +2,7 @@
 
 ![img](Topology_Panel_icon.png)
 
-*20 June 2022. Update: 2022/07/06.*
+*20 June 2022. Update: 2022/07/12.*
 
 * [用途](#use)
 
@@ -19,6 +19,8 @@
 搜尋 Grafana Plugins 中的 Topology Panel 並點擊 INSTALL 或打以下指令
 
     grafana-cli plugins install gretamosa-topology-panel
+    
+只支援 grafana 5.x.x
 
 <h2 id="example">範例</h2>
 
