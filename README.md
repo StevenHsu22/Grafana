@@ -1,7 +1,7 @@
 # Grafana 實作練習 - Plugins 篇
 
-[與 Darrenli](https://github.com/Darrenli840214)
-[及 hsiaotingg 共同協作](https://github.com/hsiaotingg)
+與 [Darrenli](https://github.com/Darrenli840214) 及 [hsiaotingg](https://github.com/hsiaotingg) 共同協作
+
 
 *21 June 2022. Update: 2022/07/12.*
 
