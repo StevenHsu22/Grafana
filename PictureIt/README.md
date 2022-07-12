@@ -2,7 +2,9 @@
 
 ![img](pictureIt_icon.png)
 
-*20 June 2022. Update: 2022/06/28.*
+目前已無更新，故無法使用
+
+*20 June 2022. Update: 2022/07/12.*
 
 * [用途](#use)
 
