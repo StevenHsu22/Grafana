@@ -2,6 +2,8 @@
 
 ![img](ePict_Panel_icon.png)
 
+**實用性不高**
+
 *20 June 2022. Update: 2022/07/12.*
 
 * [用途](#use)
@@ -22,7 +24,7 @@
 
     grafana-cli plugins install larona-epict-panel
 
-<h2 id="example">範例</h2>
+<h2 id="do_example">範例</h2>
 
-![img](ePict.png)
+![img](ePict_panel_sample1.png)
 
