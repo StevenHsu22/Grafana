@@ -2,7 +2,7 @@
 
 ![img](FlowCharting_icon.png)
 
-*20 June 2022. Update: 2022/07/06.*
+*20 June 2022. Update: 2022/07/12.*
 
 * [用途](#use)
 
