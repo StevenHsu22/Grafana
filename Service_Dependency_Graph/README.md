@@ -34,4 +34,5 @@
 
 ![img](sample1_setting.png)
 
+[基本功能介紹教學](https://github.com/StevenHsu22/Grafana/blob/plugins/Service_Dependency_Graph/Service_Dependency_Graph.pdf)
 
