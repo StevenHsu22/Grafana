@@ -2,7 +2,7 @@
 
 ![img](service_dependency_icon.png)
 
-*20 June 2022. Update: 2022/07/14.*
+*20 June 2022. Update: 2022/07/19.*
 
 * [用途](#use)
 
@@ -11,6 +11,8 @@
 * [範例](#example)
 
 * [實作範例](#do_example)
+
+* [教學文件](#teach)
 
 <h2 id="use">用途</h2>
 
@@ -33,6 +35,8 @@
 ![img](Service_Dependency_Graph_sample1.png)
 
 ![img](sample1_setting.png)
+
+<h2 id="teach">教學文件</h2>
 
 [基本功能介紹教學](https://github.com/StevenHsu22/Grafana/blob/plugins/Service_Dependency_Graph/Service_Dependency_Graph.pdf)
 
