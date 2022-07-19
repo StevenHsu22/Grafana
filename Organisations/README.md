@@ -2,7 +2,11 @@
 
 ![img](Organisations_icon.png)
 
-*20 June 2022. Update: 2022/07/06.*
+*20 June 2022. Update: 2022/07/19.*
+
+*目前發現該插件無可調整之功能*
+
+![img](organisations_error.png)
 
 * [用途](#use)
 
