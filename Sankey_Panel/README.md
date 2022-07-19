@@ -34,6 +34,8 @@
 
 <h2 id="teach">教學</h2>
 
+教學製作者 [Darrenli840214](https://github.com/Darrenli840214)
+
 1. 進入編輯儀表板畫面，於右方選擇Sankey Panel後，於Query欄位放入一個可量化的指標，兩個或以上不同的類別，指標可以輸入Lucene語法搜尋，如下圖
 
 ![img](https://github.com/StevenHsu22/Grafana/blob/plugins/Sankey_Panel/sankeystep1.png)
