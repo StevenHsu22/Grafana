@@ -40,3 +40,5 @@
 ![img](Tree_view_sample3.png)
 
 <h2 id="teach">教學文件</h2>
+
+[Tree View 教學文件](https://github.com/StevenHsu22/Grafana/blob/plugins/Tree_View/Tree_View.pdf)
