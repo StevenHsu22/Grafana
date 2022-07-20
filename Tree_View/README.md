@@ -2,7 +2,7 @@
 
 ![img](Tree_View_icon.png)
 
-*20 June 2022. Update: 2022/07/06.*
+*20 June 2022. Update: 2022/07/20.*
 
 * [用途](#use)
 
@@ -24,8 +24,12 @@
 
     grafana-cli plugins install pgillich-tree-panel
 
-*不支援 ES，只支援 JSON API 數據源*
+*可支援 ES，也支援 JSON API 數據源*
 
 <h2 id="example">範例</h2>
 
+![img](Tree_view_sample.jpg)
 
+<h2 id="do_example">實作範例</h2>
+
+<h2 id="teach">教學文件</h2>
