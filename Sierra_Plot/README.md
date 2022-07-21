@@ -38,3 +38,4 @@ Requests to Servers 報錯的時段與機器
 
 <h2 id="teach">教學文件</h2>
 
+[教學文件](Sierra_Plot_teach.pdf)
