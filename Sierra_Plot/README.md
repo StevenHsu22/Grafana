@@ -30,6 +30,7 @@
 
 <h2 id="do_example">實作範例</h2>
 
+Requests to Servers 報錯的時段與機器
 ![img](sierra_plot_sample1.png)
 
 [資料來源](https://raw.githubusercontent.com/boazreicher/sierra-plot/main/examples/data/test_servers.csv)
