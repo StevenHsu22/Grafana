@@ -10,6 +10,10 @@
 
 * [範例](#example)
 
+* [實作範例](#do_example)
+
+* [教學文件](#teach)
+
 <h2 id="use">用途</h2>
 
 將圖片進一步轉換為3D圖形，將數據顯著的區塊顯示隆起狀
@@ -23,4 +27,12 @@
 <h2 id="example">範例</h2>
 
 ![img](Sierra_Plot.png)
+
+<h2 id="do_example">實作範例</h2>
+
+![img](sierra_plot_sample1.png)
+
+[資料來源](https://raw.githubusercontent.com/boazreicher/sierra-plot/main/examples/data/test_servers.csv)
+
+<h2 id="teach">教學文件</h2>
 
