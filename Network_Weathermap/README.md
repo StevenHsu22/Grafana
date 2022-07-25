@@ -26,6 +26,8 @@
 
 <h2 id="research">目前研究進度</h2>
 
+[資料來源](https://github.com/StevenHsu22/Grafana/blob/plugins/Network_Weathermap/network_weather_test.csv)
+
 ![img](network_weather_test1.png)
 
 ![img](network_weather_test2.png)
