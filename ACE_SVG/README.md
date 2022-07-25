@@ -2,7 +2,7 @@
 
 ![img](ACE_SVG_icon.png)
 
-*20 June 2022. Update: 2022/07/08.*
+*20 June 2022. Update: 2022/07/25.*
 
 * [用途](#use)
 
@@ -30,3 +30,4 @@
 
 因為要寫 js 較難產出圖表
 
+如果是想要有圖片的話，Flowcharting也可插入圖片在drawio後再匯入跟搭配Grafana做動畫。
