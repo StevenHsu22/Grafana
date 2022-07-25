@@ -10,7 +10,7 @@
 
 * [範例](#example)
 
-* [實作練習](#do_example)
+* [研究進度](#research)
 
 <h2 id="use">用途</h2>
 
@@ -26,7 +26,7 @@
 
 ![img](ACESVG.gif)
 
-<h2 id="do_example">實作練習</h2>
+<h2 id="research">研究進度</h2>
 
 因為要寫 js 較難產出圖表
 
