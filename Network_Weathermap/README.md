@@ -28,6 +28,8 @@
 
 [資料來源](https://github.com/StevenHsu22/Grafana/blob/plugins/Network_Weathermap/network_weather_test.csv)
 
+設定欄位
 ![img](network_weather_test1.png)
 
+在插件中選擇欄位，會出現 undefined 的數值 (待解決，由於範例是使用 Prometheus 或許是不太支持 ES)
 ![img](network_weather_test2.png)
