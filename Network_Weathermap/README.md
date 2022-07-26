@@ -33,3 +33,5 @@
 
 在插件中選擇欄位，會出現 undefined 的數值 (待解決，由於範例是使用 Prometheus 或許是不太支持 ES)
 ![img](network_weather_test2.png)
+
+[插件功能教學文件](https://github.com/StevenHsu22/Grafana/blob/plugins/Network_Weathermap/Network_Weathermap.pdf)
