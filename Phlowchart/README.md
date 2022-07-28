@@ -52,6 +52,7 @@
 參考官方說明 [reference](https://grafana.com/grafana/plugins/philipsgis-phlowchart-panel/)
 
 '''json
+
 [
    {
       "id": "1",
@@ -87,9 +88,11 @@
       "url": "http://www.domain.com/path/subpath/3"
    }
 ]
+
 '''
 
 '''json
+
 [
    {
       "id": "1-2",
@@ -102,4 +105,5 @@
       "target": "3"
    }
 ]
+
 '''
