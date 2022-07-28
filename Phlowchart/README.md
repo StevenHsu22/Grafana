@@ -51,3 +51,55 @@
 
 參考官方說明 [reference](https://grafana.com/grafana/plugins/philipsgis-phlowchart-panel/)
 
+'''
+[
+   {
+      "id": "1",
+      "type": "twoTextFourNumber",
+      "title": "Vertex title 1",
+      "sub_text": "Vertex sub text 1",
+      "number1": 80,
+      "number2": 45,
+      "number3": 39,
+      "number4": 4,
+      "url": "http://www.domain.com/path/subpath/1"
+   },
+   {
+      "id": "2",
+      "type": "twoTextTwoNumber",
+      "title": "Vertex title 2",
+      "sub_text": "Vertex sub text 2",
+      "number1": 116,
+      "number2": 5,
+      "number3": null,
+      "number4": null,
+      "url": "http://www.domain.com/path/subpath/2"
+   },
+   {
+      "id": "3",
+      "type": "oneTextThreeNumber",
+      "title": "Vertex title 3",
+      "sub_text": null,
+      "number1": 93,
+      "number2": 44,
+      "number3": 32,
+      "number4": null,
+      "url": "http://www.domain.com/path/subpath/3"
+   }
+]
+'''
+
+'''
+[
+   {
+      "id": "1-2",
+      "source": "1",
+      "target": "2"
+   },
+   {
+      "id": "2-3",
+      "source": "2",
+      "target": "3"
+   }
+]
+'''
