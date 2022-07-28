@@ -12,6 +12,8 @@
 
 * [實作範例](#do_example)
 
+* [教學文件](#teach)
+
 <h2 id="use">用途</h2>
 
 繪製大範圍流程圖，為其提供實時數據並在流程圖中定義數據如何影響視覺反饋。
@@ -35,5 +37,7 @@
 flowcharting可以將draw.io產出圖表的各個元素綁定數據資料，再藉由設定不同閥值、搭配不同顏色，使用者一眼就能清楚地看出各個服務或裝置的狀態，提升排查除錯的效率。
 
 ![img](flowcharting_sample1.png)
+
+<h2 id="teach">教學文件</h2>
 
 [教學文件 by Elaine](https://github.com/StevenHsu22/Grafana/blob/plugins/FlowCharting/grafana_flowcharting_Elaine.pdf)
