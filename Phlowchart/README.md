@@ -30,6 +30,14 @@
 
 ![img](Phlowchart_datasource.png)
 
-(2) 
+(2) 進入dashboard，選擇 Infinity，並設定 Type 為 json 及 Source 為 inline
+
+![image](https://user-images.githubusercontent.com/63342653/181444674-a9e3079b-e892-46a9-8d96-e7cfd03ef760.png)
+
+(3) 將以下
+
+[edges](https://raw.githubusercontent.com/philips-labs/grafana-bpm-plugin/main/sample_data/edges.json)
+
+[nodes](https://raw.githubusercontent.com/philips-labs/grafana-bpm-plugin/main/sample_data/nodes.json)
 
 ![img](Phlowchart_sample.png)
