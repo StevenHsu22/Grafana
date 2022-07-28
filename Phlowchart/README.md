@@ -51,7 +51,7 @@
 
 參考官方說明 [reference](https://grafana.com/grafana/plugins/philipsgis-phlowchart-panel/)
 
-'''json
+```json
 
 [
    {
@@ -89,9 +89,9 @@
    }
 ]
 
-'''
+```
 
-'''json
+```json
 
 [
    {
@@ -106,4 +106,4 @@
    }
 ]
 
-'''
+```
