@@ -51,6 +51,8 @@
 
 參考官方說明 [reference](https://grafana.com/grafana/plugins/philipsgis-phlowchart-panel/)
 
+* nodes
+
 ```json
 
 [
@@ -93,16 +95,17 @@
 
 | Attribute Name | Type | Description |
 |----|----|----|
-| id | string | 頂點的唯一標識符。在定義連接有向圖頂點的邊時，此標識符用作源屬性和目標屬性。 |
-| type | string | 這是頂點最重要的屬性。它定義瞭如何渲染特定的頂點。 |
-| title | string | 此屬性指定頂點的主要文本。 |
-| sub_text | string | 此屬性指定頂點的輔助文本。 |
+| id | string | 頂點的唯一ID。在定義連接圖頂點的邊時，此標識符用作 source 和 target。 |
+| type | string | 這是頂點最重要的屬性。它定義如何渲染特定的頂點。 |
+| title | string | 此屬性指定頂點的主要說明。 |
+| sub_text | string | 此屬性指定頂點的輔助說明。 |
 | number1 | number | 此屬性指定頂點的第一個編號。 |
 | number2 | number | 此屬性指定頂點的第二個編號。 |
 | number3 | number | 此屬性指定頂點的第三個編號。 |
 | number4 | number | 此屬性指定頂點的第四個編號。 |
-| url | string | 該屬性將包含用戶在點擊頂點時將被定向到的 URL。 |
+| url | string | 該屬性將包含用戶在點擊頂點時將被指向到的 URL。 |
 
+* edges
 
 ```json
 
@@ -123,6 +126,6 @@
 
 | Attribute Name | Type | Description |
 |----|----|----|
-| id | string | 邊的唯一標識符。這必須是邊緣集合中的唯一值。 |
-| source | string | 作為邊源的頂點的"id"屬性。箭頭連接器將從源頂點流向目標頂點。 |
-| target | string | 作為邊緣目標的頂點的"id"屬性。箭頭連接器將從源頂點流向目標頂點。|
+| id | string | edges 的唯一標識符。這必須是 edges 集合中的唯一值。 |
+| source | string | 作為 edge source 頂點的"id"屬性。箭頭連接器將從 source 頂點流向 target 頂點。 |
+| target | string | 作為 edge target 頂點的"id"屬性。箭頭連接器將從 source 頂點流向 target 頂點。|
