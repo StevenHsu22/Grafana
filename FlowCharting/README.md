@@ -36,4 +36,4 @@ flowcharting可以將draw.io產出圖表的各個元素綁定數據資料，再�
 
 ![img](flowcharting_sample1.png)
 
-[教學文件 by Elaine hsiaotingg](https://github.com/StevenHsu22/Grafana/blob/plugins/FlowCharting/grafana_flowcharting_Elaine.pdf)
+[教學文件 by Elaine](https://github.com/StevenHsu22/Grafana/blob/plugins/FlowCharting/grafana_flowcharting_Elaine.pdf)
