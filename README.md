@@ -16,7 +16,7 @@
 | Icon | Name | Icon | Name | Icon | Name |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![img](Candlestick/Candlestick_icon.png) | [Candlestick](https://github.com/StevenHsu22/Grafana/tree/plugins/Candlestick) | ![img](FlowCharting/FlowCharting_icon.png) | [FlowCharting](https://github.com/StevenHsu22/Grafana/tree/plugins/FlowCharting) | ![img](Service_Dependency_Graph/service_dependency_icon.png) | [Service Dependency Graph](https://github.com/StevenHsu22/Grafana/tree/plugins/Service_Dependency_Graph) |
-|  |  |  |  |  |  |
+| ![img](Sankey_Panel/Sankey_Panel_icon.png) | [Sankey Panel](https://github.com/StevenHsu22/Grafana/tree/plugins/Sankey_Panel) |  |  |
 
 <h2 id="allPlugins">全 Grafana Plugins</h2>
 
