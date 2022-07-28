@@ -93,15 +93,15 @@
 
 | Attribute Name | Type | Description |
 |----|----|----|
-| id | string | |
-| type | string | |
-| title | string | |
-| sub_text | string | |
-| number1 | string | |
-| number2 | number | |
-| number3 | number | |
-| number4 | number | |
-| url | string | |
+| id | string | 頂點的唯一標識符。在定義連接有向圖頂點的邊時，此標識符用作源屬性和目標屬性。 |
+| type | string | 這是頂點最重要的屬性。它定義瞭如何渲染特定的頂點。 |
+| title | string | 此屬性指定頂點的主要文本。 |
+| sub_text | string | 此屬性指定頂點的輔助文本。 |
+| number1 | number | 此屬性指定頂點的第一個編號。 |
+| number2 | number | 此屬性指定頂點的第二個編號。 |
+| number3 | number | 此屬性指定頂點的第三個編號。 |
+| number4 | number | 此屬性指定頂點的第四個編號。 |
+| url | string | 該屬性將包含用戶在點擊頂點時將被定向到的 URL。 |
 
 
 ```json
@@ -120,3 +120,9 @@
 ]
 
 ```
+
+| Attribute Name | Type | Description |
+|----|----|----|
+| id | string | 邊的唯一標識符。這必須是邊緣集合中的唯一值。 |
+| source | string | 作為邊源的頂點的"id"屬性。箭頭連接器將從源頂點流向目標頂點。 |
+| target | string | 作為邊緣目標的頂點的"id"屬性。箭頭連接器將從源頂點流向目標頂點。|
