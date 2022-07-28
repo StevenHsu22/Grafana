@@ -3,7 +3,7 @@
 與 [Darrenli](https://github.com/Darrenli840214) 及 [hsiaotingg](https://github.com/hsiaotingg) 共同協作
 
 
-*21 June 2022. Update: 2022/07/13.*
+*21 June 2022. Update: 2022/07/28.*
 
 *Grafana version : 9.0.0*
 
