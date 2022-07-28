@@ -91,6 +91,19 @@
 
 ```
 
+| Attribute Name | Type | Description |
+|----|----|----|
+| id | string | |
+| type | string | |
+| title | string | |
+| sub_text | string | |
+| number1 | string | |
+| number2 | number | |
+| number3 | number | |
+| number4 | number | |
+| url | string | |
+
+
 ```json
 
 [
