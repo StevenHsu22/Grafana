@@ -32,7 +32,7 @@
 
 (2) 進入dashboard，選擇 Infinity，並設定 Type 為 json 及 Source 為 inline
 
-![image](https://user-images.githubusercontent.com/63342653/181444674-a9e3079b-e892-46a9-8d96-e7cfd03ef760.png)
+![](Phlowchart_setting.png)
 
 (3) 將以下
 
