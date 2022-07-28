@@ -10,6 +10,8 @@
 
 * [圖表產出教學](#teach)
 
+* [所需資料格式介紹](#data)
+
 <h2 id="use">用途</h2>
 
 可用於從有向圖數據中呈現交互式流程圖。該面板依賴於 Infinity 數據源插件。
@@ -44,3 +46,8 @@
 ![img](Phlowchart_setting(2).png)
 
 ![img](Phlowchart_sample.png)
+
+<h2 id="data">所需資料格式介紹</h2>
+
+參考官方說明 [reference](https://grafana.com/grafana/plugins/philipsgis-phlowchart-panel/)
+
