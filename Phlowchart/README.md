@@ -8,7 +8,7 @@
 
 * [安裝方式、有無支援 ElasticSearch](#install)
 
-* [研究進度](#research)
+* [圖表產出教學](#teach)
 
 <h2 id="use">用途</h2>
 
@@ -22,6 +22,14 @@
 
 無支援 ES，只支援 Infinity
 
-<h2 id="research">研究進度</h2>
+<h2 id="teach">圖表產出教學</h2>
+
+(1) 首先下載 Infinity 插件，並在 datasource 中加入此插件(但不用做任何設定)
+
+![img](Phlowchart_install.png)
+
+![img](Phlowchart_datasource.png)
+
+(2) 
 
 ![img](Phlowchart_sample.png)
